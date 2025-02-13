@@ -2,7 +2,7 @@
 
 This repository contains demonstrations of demand forecasting and sensing capabilities using machine learning techniques on Databricks.
 
-## 📁 Project Structure
+## 📁 Project Structure 
 
 ### forecasting-demo/
 Contains time series forecasting implementation using AutoGluon:

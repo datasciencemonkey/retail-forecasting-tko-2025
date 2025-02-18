@@ -22,3 +22,14 @@ Demonstrates demand sensing capabilities:
 - Uses Databricks AutoML for regression modeling
 - Implements model versioning and registration in Unity Catalog
 - Includes visualization of the demand sensing process
+
+
+	---
+  # Creating an Agent to dynamically alter Predictions on the fly
+
+  ![Agent Demo](sensing-demo/agent.gif)
+  
+  
+
+
+
